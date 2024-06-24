@@ -5,6 +5,6 @@ import sitemap from '@astrojs/sitemap';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://Solaris-Verill.github.io/',
+	site: 'https://Solaris-Verill.github.io',
 	integrations: [mdx(), sitemap()],
 });
